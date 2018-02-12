@@ -1,0 +1,42 @@
+h1{
+	background-image: url("../images/bcummings.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
+	padding: 100px;
+	text-align: center;
+	font-size: 60px;
+	font-family: Broadway Regular;
+	color: #0F7173;
+}
+.wrapper{
+	width: 80%;
+	background-color: #E6F9AF;
+	padding: 20px;
+	margin: 0 auto;
+}
+footer{
+	background-color: #0D0630;
+	text-align: center;
+}
+h2{
+	color: #18314F;
+	font-family: Arial;
+	font-size: 45px;
+}
+p{
+	color: #8BBEB2;
+	font-family: Arial;
+	font-size: 35px;
+}
+ul{
+		color: #8BBEB2;
+	font-family: Arial;
+	font-size: 35px;
+}
+.logo{
+	margin: 0 auto;
+}
+body{
+	background-color: #8BBEB2;
+}
