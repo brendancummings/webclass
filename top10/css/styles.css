@@ -1,0 +1,37 @@
+p{
+	color:#708B75;
+	font-family: Arial;
+	font-size: 24px;
+	border-left: 20px solid #F8F991;
+	border-right: 20px solid #F8F991;
+}
+h1{
+	color:#3D315B;
+	text-align: center;
+	font-family: Arial;
+	font-size: 50px;
+	border-bottom: 20px solid #9AB87A;
+	border-top: 20px solid #9AB87A;
+	background-image: url("images/trees.jpg");
+	background-color: #9AB87A;
+}
+h2{
+	color: #444B6E;
+	font-family: Arial;
+	font-size: 37px;
+	border-left: 20px solid #F8F991;
+	border-right: 20px solid #F8F991;
+}
+img{
+	border: 10px solid #9AB87A;
+	width: 50%;
+}
+h3{
+	text-align: center;
+}
+body{
+	background-color: #F8F991;
+}
+a{
+	color: #708B75;
+}

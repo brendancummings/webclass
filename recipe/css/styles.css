@@ -1,0 +1,47 @@
+body{
+	background-color: #171219;
+}
+h1{
+	color: #f0803c;
+	text-align: center;
+	background-image: url("../images/whoopie.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
+	padding: 2.5cm 0cm 2.5cm 0cm;
+	font-size: 65px;
+	font-family: Goudy Stout Regular;
+	text-decoration: underline;
+	text-decoration-color: #a52c6d;
+	text-decoration-style: wavy;
+}
+h2{
+	color: #edf060;
+	font-size: 60px;
+	padding: .5px .5px .5px 10px;
+	text-decoration: underline;
+	text-decoration-color: #f0803c;
+	text-decoration-style: wavy;
+	font-family: Hobo Std Medium;
+}
+ul{
+	color: #3A94a8;
+	font-size: 40px;
+	padding-left: 60px;
+	font-family: Tekton Pro;
+}
+ol{
+	color: #3a94a8;
+	font-size: 40px;
+	padding-left: 60px;
+	font-family: Tekton Pro;
+}
+img{
+	position: relative;
+	clear: right;
+	margin-top: 5px;
+}
+.right{
+	float:right;
+}
+
