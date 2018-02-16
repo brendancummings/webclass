@@ -36,12 +36,14 @@ ol{
 	padding-left: 60px;
 	font-family: Tekton Pro;
 }
-img{
-	position: relative;
+.right{
+	float:right;
 	clear: right;
 	margin-top: 5px;
 }
-.right{
-	float:right;
+.ingred{
+	width: 32%;
 }
-
+h3{
+	text-align: center;
+}
